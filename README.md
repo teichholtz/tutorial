@@ -10,3 +10,4 @@ Migrations are very powerful and let you change your models over time, as you de
     Run python manage.py makemigrations to create migrations for those changes
     Run python manage.py migrate to apply those changes to the database.
 
+Juan:  Added this line. 
